@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>DailyTasks</title>
+    <link>https://raw.githubusercontent.com/lazareer/dailytasks-releases/main/appcast.xml</link>
+    <description>DailyTasks release updates.</description>
+    <language>en</language>
+    <!-- newest release first -->
+    <item>
+      <title>Version 0.10.0</title>
+      <pubDate>Mon, 17 Aug 2026 18:54:42 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
+      <enclosure url="https://github.com/lazareer/dailytasks-releases/releases/download/v0.10.0/DailyTasks-0.10.0.dmg" sparkle:edSignature="gtUXjY99AnejjYwTBb9XN4sKYKqFNevKIuDFgV9b8C/kTqOM24WHF2zz+REH18JCj5ZoKq0GgNk2t+Yt83pcBQ==" length="2621668" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
