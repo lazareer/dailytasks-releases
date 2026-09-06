@@ -7,6 +7,13 @@
     <language>en</language>
     <!-- newest release first -->
     <item>
+      <title>Version 0.12.0</title>
+      <pubDate>Sun, 06 Sep 2026 16:18:45 +0000</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
+      <enclosure url="https://github.com/lazareer/dailytasks-releases/releases/download/v0.12.0/DailyTasks-0.12.0.dmg" sparkle:edSignature="yw0jHFLSYKK7eejbQypRz9ycVunMPsm5/jHyBZzH3nDCZnpTAlX2bdI5R6RRt887bohuKnmC6VDlOstZKD5AAQ==" length="2888725" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.11.0</title>
       <pubDate>Sun, 23 Aug 2026 08:49:26 +0000</pubDate>
       <sparkle:version>22</sparkle:version>
